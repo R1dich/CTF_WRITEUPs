@@ -36,6 +36,6 @@ password = bytes([arr1[i] ^ arr2[i] for i in range(52)])
 print("Password: ", password.decode('latin1'))
 ```
 Oh yeah, we have a light flag.
-```bash
+```
 Password:  UMDCTF{r3v3R$E-i$_Th3_#B3ST#_4nT!-M@lW@r3_t3chN!Qu3}
 ```
