@@ -1,4 +1,4 @@
-# CTF_WRITEUPs
+
 # 🔍 UMDCTF2025 WriteUp: deobfuskation_easy
 Hi. I will analyze a simple task with UMDCTF2025. We are given an ELF file.
 ## **Step 1**:
